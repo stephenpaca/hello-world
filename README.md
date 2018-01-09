@@ -1,2 +1,4 @@
 # hello-world
-My first try at creating a repository
+My first repository!
+
+I like tacos. And cheese. And pizza. Who doesn't like pizza?!
